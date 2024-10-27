@@ -23,6 +23,7 @@
 ![DAX](https://img.shields.io/badge/DAX-FFD700?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-1E4D2B?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA%20in%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 
