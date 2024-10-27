@@ -16,6 +16,15 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-008000?style=for-the-badge&logo=power-bi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFD700?style=for-the-badge&logo=power-bi&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-1E4D2B?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA%20in%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jperezj12&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
